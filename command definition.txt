@@ -1,0 +1,28 @@
+git commands  and uses
+
+git init  - to initialize git in the folder.
+
+git add <file name>  
+  (or) git add .            - it is used to track the untracked file.
+
+git commit -m "commit message"  - it is used to commit the                                                       file in the git .
+
+git remote add origin "url"  - it is to connect local git to                                            github repositer .
+
+git branch  -   it shows the current branch of working.
+
+git branch -a   - it displays all the branch with our repositer.
+
+git branch -M main -  it is of changing the name of branch                                  to main
+
+git status - it shows the curennt status of the file
+
+git push origin main  -  it is that pushing the file from local to                                     the github
+
+git pull origin main -  it is of pulling the file from github to                                 the local git.
+
+git checkout <branch name> -  it is that switching between                                             the branch 
+
+git merge <branch name> -  it is that merging the changes                             done in the following  branch mentioned 
+
+git log --oneline   - it show the  created author details 
